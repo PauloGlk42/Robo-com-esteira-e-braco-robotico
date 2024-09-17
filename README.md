@@ -1,6 +1,6 @@
 # Robô do Tipo Esteira com Mini-Braço Robótico
 
-Este projeto é um robô do tipo esteira equipado com um mini-braço robótico, projetado para [descrever a função ou objetivo do robô].
+Este projeto é um robô do tipo esteira equipado com um mini-braço robótico, projetado para realizar pequenos desafios e colocar em prática conceitos de programação e robótica
 
 ## Materiais Usados
 
